@@ -1,4 +1,5 @@
 // Tracelight SDK for JavaScript
+
 class Tracelight {
   constructor(apiKey, baseUrl = 'https://ttgcemltjnnrcliyqath.supabase.co/functions/v1') {
     this.apiKey = apiKey;
