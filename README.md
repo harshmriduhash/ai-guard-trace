@@ -3,8 +3,6 @@
 
 ## How can I edit this code?
 
-There are several ways of editing your application.
-
 **Use Lovable**
 
 Simply visit the [Lovable Project](https://lovable.dev/projects/a4e511b4-8d42-4a34-a12b-84763c87e5c9) and start prompting.
